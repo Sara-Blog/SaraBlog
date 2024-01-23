@@ -1,0 +1,149 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1920px;
+  overflow: hidden;
+}
+.desktop-5-PSQ {
+position: fixed;
+  width: 1920px;
+  height: 1080px;
+  background-position: center center;
+  background-size: cover;
+  background-image: url('../public/0185c941aaa3afe7420359777f87a337.png');
+
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL {
+
+  align-items: center;
+  
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .contact-Aba {
+  margin :170px 500px ;
+  font-size: 3.5rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.8100000024);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+  
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .auto-group-tsji-HAQ {
+position:absolute;
+  font-size: 3rem;
+  font-weight: 400;
+  color: #9c9c9c;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .auto-group-tsji-HAQ .opacity-25 {
+    margin: 250px 500px;
+    font-size: 3rem;
+    font-weight: 400;
+    width: 50rem;
+  border-radius: 1.5rem;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.desktop-5-PSQ .auto-group-ac4g-vSL .auto-group-vmx6-mDz {
+  box-sizing: border-box;
+  font-size: 3rem;
+  font-weight: 400;
+  color: #9c9c9c;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .auto-group-vmx6-mDz .opacity-25{
+
+  margin:300px 500px;
+  font-size: 3rem;
+  font-weight: 400;
+  width:50rem;
+  border-radius: 1.5rem;
+  color: rgba(27, 22, 22, 0.52);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: fixed;
+ 
+}
+
+.desktop-5-PSQ .auto-group-ac4g-vSL .comment-6vU {
+  margin:400px 500px;
+  font-size: 3rem;  
+  font-weight: 400;
+  color: #faf2f2;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .comment-6vU .opacity-25 {
+  font-size: 3rem;
+  width:50rem;
+  font-weight: 400;
+  color: #ffffff;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: fixed;
+}
+
+.desktop-5-PSQ .auto-group-ac4g-vSL .rectangle-10-ud2 .opacity-25{
+  margin: 450px 500px;
+  width: 50rem;
+  font-size: 2rem;
+  height: 19.3rem;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(214, 213, 215, 0.2199999988);
+  position: absolute;
+}
+.desktop-5-PSQ .auto-group-ac4g-vSL .bg-transparent {
+  margin: 650px 700px;
+  font-size: 3.2rem;
+  font-weight: 400;
+  color: #fafafa;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-shadow: 0 5rem 5rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 0.2300000042);
+  border-radius: 1rem;
+  position:fixed;
+ 
+}
+
+
+.desktop-5-PSQ .auto-group-1dnx-ptQ .blog-8pY {
+  font-size: 4.5rem;
+  font-weight: 400;
+  
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  position: absolute;
+  
+}
+.desktop-5-PSQ .saras-blog-3wW {
+  margin:2px 70px;
+  font-size: 3.8rem;
+  font-weight: 200;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8100000024);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.desktop-5-PSQ .explore-a-whole-new-world-of-books-through-my-blog-9zY {
+  margin:0px 70px;
+  width: 74rem;
+  height: 2.5rem;
+  font-size: 2.0rem;
+  font-weight: 400;
+  color: rgba(255, 246, 246, 0.9);
+  
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+}

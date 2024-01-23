@@ -1,0 +1,129 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1920px;
+  overflow: hidden;
+}
+.desktop-4-QW4 {
+  width: 1920px;
+  height: 1080px;
+  background-size: cover;
+  background-position: center center ;
+  background-image: url('../public/download\ \(6\).jpeg');
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg {
+  margin-bottom: 6.4rem;
+  width: 74rem;
+  height: 12.9rem;
+ 
+  flex-shrink: 0;
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg .explore-a-whole-new-world-of-books-through-my-blog-Ezt {
+
+  margin:55px 70px;
+  width: 74rem;
+    
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: rgba(250, 236, 236, 0.992);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg .saras-blog-6nC {
+
+  margin:2px 70px;
+
+  font-size: 3.8rem;
+  font-weight: 200;
+
+  color: rgba(255, 255, 255, 0.942);
+
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: fixed;
+}
+.desktop-4-QW4 .auto-group-nn1n-ogc {
+  margin: 0rem 0rem 4.3rem 1.8rem;
+  background-color: rgba(98, 98, 98, 0.2399999946);
+  position: absolute;
+  
+
+}
+
+
+.desktop-4-QW4 .auto-group-5kr8-raL {
+
+position: fixed;
+}
+
+.desktop-4-QW4 .auto-group-5kr8-raL .black_waters{
+
+  margin:0px 0px;
+  position: absolute;
+ 
+}
+img{
+
+  width:150px;
+  height:220px;
+  position:relative;
+ 
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good1{
+
+  margin:  0px 0px 0px 200px;
+
+  position: relative;
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good2{
+
+  margin:  0px 0px 0px 200px;
+
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good3{
+
+  margin:  0px 100px 0px 200px;
+
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good4{
+
+  margin:  0px 0px 0px 100px;
+
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good5{
+
+  margin:  150px 100px 0px 200px;
+
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good6{
+
+  margin:  150px 100px 0px 100px;
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good7{
+
+  margin:  150px 100px 0px 100px;
+
+  
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .good8{
+
+  margin:  150px 100px 0px 100px;
+
+  
+}
+

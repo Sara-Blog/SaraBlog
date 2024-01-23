@@ -1,0 +1,95 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1920px;
+  overflow: hidden;
+}
+.desktop-4-QW4 {
+  width: 1920px;
+  height: 1080px;
+  background-size: cover;
+  background-position: center center ;
+  background-image: url('../public/Best\ Wallpaper\ for\ iPhone\ 12\ Pro\ Max\ \(YTECHB_com\).jpeg');
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg {
+  margin-bottom: 6.4rem;
+  width: 74rem;
+  height: 12.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg .explore-a-whole-new-world-of-books-through-my-blog-Ezt {
+
+  margin:55px 70px;
+  width: 74rem;
+    position: absolute;
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: rgba(250, 236, 236, 0.992);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.desktop-4-QW4 .auto-group-mdzz-6tg .saras-blog-6nC {
+
+  margin:2px 70px;
+  position: fixed;
+  font-size: 3.8rem;
+  font-weight: 200;
+
+  color: rgba(255, 255, 255, 0.942);
+
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.desktop-4-QW4 .auto-group-nn1n-ogc {
+  margin: 0rem 0rem 4.3rem 1.8rem;
+  background-color: rgba(98, 98, 98, 0.2399999946);
+
+}
+
+
+
+.desktop-4-QW4 .auto-group-5kr8-raL {
+
+position: absolute;
+margin:0px;
+}
+
+.desktop-4-QW4 .auto-group-5kr8-raL .black_waters{
+  max-width: 121.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .story-text
+{
+  left: 20%;
+  width: 100rem;
+  font-size: 2rem;
+  height: 60rem;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(214, 213, 215, 0.2199999988);
+  color: aliceblue;
+  position: absolute;
+
+}
+.desktop-4-QW4 .auto-group-5kr8-raL .hey{
+
+  margin :0px 600px; 
+  font-size: 3rem;
+  color: rgb(212, 223, 232);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "@vbobel/react-space-background": "^2.1.1",
+    "bootstrap": "^5.2.3",
+    "cdbreact": "^1.5.4",
+    "react-bootstrap-sidebar-menu": "^2.0.3",
+    "react-remove-scroll-bar": "^2.3.4",
+    "react-router-dom": "^6.4.4"
+  }
+}

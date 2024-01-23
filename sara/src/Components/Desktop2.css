@@ -1,0 +1,114 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1920px;
+  overflow: hidden;
+}
+.desktop-2-d4t {
+
+  width:1920px;
+  height:1080px;
+  background-size: cover;
+  background-position: center center;
+  background-image: url('../public/download.jpeg');
+  position: absolute;
+}
+.desktop-2-d4t .rectangle-5-YxY {
+  width: 60.9rem;
+  height: 71.8rem;
+  position: fixed;
+  left: 45rem;
+  top: 6.5rem;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(115, 112, 121, 0.1899999976);
+}
+.desktop-2-d4t .create-new-account-Frx {
+  margin:100px 580px;
+  font-size: 4.0rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.7599999905);
+  font-family: Poppins, 'Source Sans Pro';
+  position: absolute;
+
+
+}
+.desktop-2-d4t .already-a-member-log-in-wzg {
+ margin : 160px 600px;
+  font-size: 2.5rem;
+  font-weight:  00;
+  color: rgba(255, 255, 255, 0.8199999928);
+  font-family: Poppins, 'Source Sans Pro';
+position: fixed;
+
+}
+
+.desktop-2-d4t .name-QWt .opacity-50 {
+  margin: 270px 520px;
+  width: 48.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  color: rgba(178, 186, 183, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+ position:absolute;
+ border-radius: 1.5rem;
+
+}
+.desktop-2-d4t .email-iXa .opacity-50{
+  margin : 360px 520px;
+  width: 48.4rem;
+  height: 4.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(178, 186, 183, 0.7200000286);
+  font-family: Poppins, 'Source Sans Pro';
+  position:absolute;
+  border-radius: 1.5rem;
+}
+.desktop-2-d4t .new-password-SCg .opacity-50{
+  margin :450px 520px;
+  width: 48.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  color: rgba(178, 186, 183, 0.7699999809);
+  font-family: Poppins, 'Source Sans Pro';
+  position: absolute;
+  border-radius: 1.5rem;
+
+}
+.desktop-2-d4t .confirm-password-9sn .opacity-50{
+  margin :540px 520px;
+  width: 48.4rem;
+  height: 4.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  color: rgba(178, 186, 183, 0.7699999809);
+  font-family: Poppins, 'Source Sans Pro';
+  position: absolute;
+  border-radius: 1.5rem;
+}
+
+.desktop-2-d4t .bg-transparent {
+  margin : 650px 620px;
+  width: 23.6rem;
+  height: 4.5rem;
+  position: absolute;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f6f1f1;
+  font-family: Poppins, 'Source Sans Pro';
+}
